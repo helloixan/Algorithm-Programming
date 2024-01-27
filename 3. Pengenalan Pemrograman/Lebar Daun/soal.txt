@@ -1,0 +1,4 @@
+Sebuah program digunakan untuk mencari daun yang paling lebar.
+Masukan terdiri dari beberapa bilangan. Bilangan pertama adalah n yang menyatakan 
+banyaknya daun. Kemudian n bilangan berikutnya adalah lebar dari masing-masing daun.
+Keluaran berupa bilangan yang menyatakan lebar daun yang paling lebar.

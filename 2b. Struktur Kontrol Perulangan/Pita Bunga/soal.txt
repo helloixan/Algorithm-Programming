@@ -1,0 +1,13 @@
+v1
+Suatu pita (string) berisi kumpulan nama-nama bunga yang dipisahkan oleh spasi dan ‘–
+‘, contoh pita diilustrasikan seperti berikut ini.
+Pita: mawar – melati – tulip – teratai – kamboja – anggrek
+Buatlah sebuah program yang menerima input sebuah bilangan bulat positif (dan tidak 
+nol) N, kemudian program akan meminta input berupa nama bunga secara berulang 
+sebanyak N kali dan nama tersebut disimpan ke dalam pita.
+(Petunjuk: gunakan operasi penggabungan string dengan operator “+” ). 
+Tampilkan isi pita setelah proses input selesai.
+v2
+Modifikasi program sebelumnya di mana proses input akan berhenti apabila user 
+mengetikkan ‘SELESAI’. Kemudian tampilkan isi pita beserta banyaknya bunga yang ada 
+di dalam pita

@@ -1,0 +1,3 @@
+Sebuah program digunakan untuk mencacah digit dari suatu bilangan.
+Masukan terdiri dari sebuah bilangan bulat positif.
+Keluaran berupa digit terbesar pada bilangan tersebut.

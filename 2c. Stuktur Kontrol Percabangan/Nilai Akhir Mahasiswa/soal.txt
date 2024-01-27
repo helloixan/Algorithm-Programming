@@ -1,0 +1,11 @@
+Diberikan sebuah nilai akhir mata kuliah (NAM) [0..100] dan standar penilaian nilai mata 
+kuliah (NMK) sebagai berikut:
+
+     NAM            NMK
+   NAM > 80          A
+72.5 < NAM <= 80     AB
+65 < NAM <= 72.5     B
+57.5 < NAM <= 65     BC
+50 < NAM <= 57.5     C
+40 < NAM <= 50       D
+   NAM <= 40         E

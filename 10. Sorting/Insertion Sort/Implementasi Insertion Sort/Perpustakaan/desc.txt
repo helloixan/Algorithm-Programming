@@ -1,0 +1,21 @@
+Sebuah program perpustakaan digunakan untuk mengelola data buku di dalam suatu 
+perpustakaan. Misalnya terdefinisi tipe bentukan dan array seperti berikut ini:
+
+Masukan terdiri dari beberapa baris. Baris pertama adalah bilangan bulat N yang 
+menyatakan banyaknya data buku yang ada di dalam perpustakaan. N baris berikutnya, 
+masing-masingnya adalah data buku sesuai dengan atribut atau field pada tipe bentukan.
+Baris terakhir adalah bilangan bulat yang menyatakan rating buku yang akan dicari.
+Keluaran terdiri dari beberapa baris. Baris pertama adalah data buku terfavorit, baris kedua 
+adalah lima judul buku dengan rating tertinggi, selanjutnya baris terakhir adalah data buku 
+yang dicari sesuai rating yang diberikan pada masukan baris terakhir.
+
+
+contoh masukan :
+7
+hp1 harrypotter_stone jk_rowling Bloomsbury 1 1997 5
+hp2 harrypotter_chamber jk_rowling Bloomsbury 10 1998 4
+hp3 harrypotter_azkaban jk_rowling Bloomsbury 5 1999 2
+hp4 harrypotter_goblet jk_rowling Bloomsbury 11 2000 3
+hp5 harrypotter_phoenix jk_rowling Bloomsbury 15 2003 1
+hp6 harrypotter_prince jk_rowling Bloomsbury 9 2005 2
+hp7 harrypotter_Hallows jk_rowling Bloomsbury 100 2007 6

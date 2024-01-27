@@ -1,0 +1,3 @@
+Sebuah program digunakan untuk mencari nilai digit tertentu
+Masukan terdiri dari dua bilangan bulat positif 𝑥𝑥 dan 𝑛𝑛, di mana nilai 𝑥𝑥 ≤ 𝑛𝑛.
+Keluaran berupa boolean yang menyatakan apakan x terdapat di dalam n.

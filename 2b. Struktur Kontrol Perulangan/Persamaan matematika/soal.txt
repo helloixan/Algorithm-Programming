@@ -1,0 +1,10 @@
+𝑓(𝑘) = (4𝑘 + 2)^2/(4𝑘 + 1)(4𝑘 + 3)
+
+Buatlah sebuah program yang menerima input sebuah bilangan sebagai K, kemudian 
+menghitung dan menampilkan nilai f(K) sesuai persamaan di atas.
+
+√2 merupakan bilangan irasional. Meskipun demikian, nilai tersebut dapat dihampiri 
+dengan rumus berikut:
+√2 =  (4𝑘 + 2)^2/(4𝑘 + 1)(4𝑘 + 3)
+Modifikasi program sebelumnya yang menerima input integer 𝐾 dan menghitung √2
+untuk 𝐾 tersebut. Hampiran √2 dituliskan dalam ketelitian 10 angka di belakang koma.

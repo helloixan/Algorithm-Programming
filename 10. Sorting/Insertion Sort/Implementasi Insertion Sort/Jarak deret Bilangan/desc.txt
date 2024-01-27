@@ -1,0 +1,8 @@
+Buatlah sebuah program yang digunakan untuk membaca data integer seperti contoh yang 
+diberikan di bawah ini, kemudian diurutkan (menggunakan metoda insertion sort), dan 
+memeriksa apakah data yang terurut berjarak sama terhadap data sebelumnya.
+Masukan terdiri dari sekumpulan bilangan bulat yang diakhiri oleh bilangan negatif. Hanya 
+bilangan non negatif saja yang disimpan ke dalam array.
+Keluaran terdiri dari dua baris. Baris pertama adalah isi dari array setelah dilakukan 
+pengurutan, sedangkan baris kedua adalah status jarak setiap bilangan yang ada di dalam 
+array. "Data berjarak x" atau "data berjarak tidak tetap".

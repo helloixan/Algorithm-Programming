@@ -1,0 +1,10 @@
+Minggu ini, mahasiswa Fakultas Informatika mendapatkan tugas dari mata kuliah matematika 
+diskrit untuk mempelajari kombinasi dan permutasi. Jonas salah seorang mahasiswa, iseng 
+untuk mengimplementasikannya ke dalam suatu program. Oleh karena itu bersediakah kalian 
+membantu Jonas? (tidak tentunya ya :p)
+Masukan terdiri dari empat buah bilangan asli 𝑎𝑎, 𝑏𝑏, 𝑐𝑐, dan 𝑑𝑑 yang dipisahkan oleh spasi, di 
+mana 𝑎𝑎 ≥ 𝑐𝑐 dan 𝑏𝑏 ≥ 𝑑𝑑. 
+Keluaran terdiri dari dua baris, di mana baris pertama adalah hasil permutasi dan kombinasi 
+𝒂𝒂 terhadap 𝑐𝑐, sedangkan baris kedua adalah hasil permutasi dan kombinasi 𝑏𝑏 terhadap 𝑑𝑑. 
+Catatan: permutasi (P) dan kombinasi (C) dari 𝑛𝑛 terhadap 𝑟𝑟 di mana (𝑛𝑛 ≥ 𝑟𝑟) dapat dihitung 
+dengan menggunakan persamaan berikut!

@@ -1,0 +1,8 @@
+Sebuah sensor temperature perlu untuk dipasang di suatu lab rahasia. Sensor ini mampu 
+merekam perubahan suhu yang terjadi dan data statistic lainnya. Buatlah aplikasi sensor 
+berdasarkan ketentuan berikut ini!
+Masukan terdiri dari beberapa bilangan bulat yang dipisahkan oleh spasi. Bilangan ini 
+menyatakan temperature yang direkam oleh sensor. Masukan akan berakhir apabila 
+temperature adalah 0 sebanyak dua kali berturut-turut.
+Keluaran berupa tiga nilai, yang menyatakan temperature tertinggi, terendah dan rata-rata 
+temperature yang direkam. Nol terakhir tidak dimasukkan ke dalam perhitungan.

@@ -1,0 +1,6 @@
+Diberikan tiga buah fungsi matematika yaitu 𝑓(𝑥) = 𝑥^2 , 𝑔(𝑥) = 𝑥 − 2 dan ℎ (𝑥) = 𝑥 +
+1. Fungsi komposisi 𝑓(ℎ)(𝑥) artinya adalah 𝑓(𝑔oℎ(𝑥)). Tuliskan 𝑓(𝑥), 𝑔(𝑥) dan ℎ(𝑥)
+dalam bentuk function.
+Masukan terdiri dari sebuah bilangan bulat 𝑎𝑎, 𝑏𝑏 dan 𝑐𝑐 yang dipisahkan oleh spasi.
+Keluaran terdiri dari tiga baris, di mana baris pertama adalah (𝑓ℎ)(𝑎), baris kedua 
+(𝑔oℎo𝑓)(𝑏), dan baris ketiga adalah (ℎo𝑓og)(𝑐)!

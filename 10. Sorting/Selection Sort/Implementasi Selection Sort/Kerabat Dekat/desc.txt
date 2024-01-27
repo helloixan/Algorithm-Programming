@@ -1,0 +1,9 @@
+Belakangan diketahui ternyata Hercules itu tidak berani menyeberang jalan, maka selalu 
+diusahakan agar hanya menyeberang jalan sesedikit mungkin, hanya diujung jalan. Karena 
+nomor rumah sisi kiri jalan selalu ganjil dan sisi kanan jalan selalu genap, maka buatlah 
+program kerabat dekat yang akan menampilkan nomor rumah mulai dari nomor yang ganjil 
+lebih dulu terurut membesar dan kemudian menampilkan nomor rumah dengan nomor 
+genap terurut mengecil. 
+Format Masukan masih persis sama seperti sebelumnya.
+Keluaran terdiri dari n baris, yaitu rangkaian rumah kerabatnya terurut membesar untuk 
+nomor ganjil, diikuti dengan terurut mengecil untuk nomor genap, di masing-masing daerah.

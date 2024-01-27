@@ -1,0 +1,10 @@
+Hercules, preman terkenal seantero ibukota, memiliki kerabat di banyak daerah. Tentunya 
+Hercules sangat suka mengunjungi semua kerabatnya itu.
+Diberikan masukan nomor rumah dari semua kerabatnya di suatu daerah, buatlah program 
+rumahkerabat yang akan menyusun nomor-nomor rumah kerabatnya secara terurut 
+membesar menggunakan algoritma selection sort. 
+Masukan dimulai dengan sebuah integer 𝒏 (0 < n < 1000), banyaknya daerah di mana 
+kerabat Hercules tinggal. Isi 𝒏 baris berikutnya selalu dimulai dengan sebuah integer 𝒎 (0 < 
+m < 1000000) yang menyatakan banyaknya rumah kerabat di daerah tersebut, diikuti 
+dengan rangkaian bilangan bulat positif, nomor rumah para kerabat.
+Keluaran terdiri dari n baris, yaitu rangkaian rumah kerabatnya terurut membesar di masing-masing daerah.

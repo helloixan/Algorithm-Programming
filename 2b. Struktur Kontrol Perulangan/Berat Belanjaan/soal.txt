@@ -1,0 +1,13 @@
+Setiap hari Pak Andi membawa banyak barang belanjaan dari pasar dengan mengendarai 
+sepeda motor. Barang belanjaan tersebut dibawa dalam kantong terpal di kiri-kanan 
+motor. Sepeda motor tidak akan oleng jika selisih berat barang di kedua kantong sisi tidak 
+lebih dari 9 kg.
+
+Buatlah program Pak Andi yang menerima input dua buah bilangan real positif yang 
+menyatakan berat total masing-masing isi kantong terpal. Program akan terus meminta 
+input bilangan tersebut hingga salah satu kantong terpal berisi 9 kg atau lebih.
+
+versi modifikasi :
+Modifikasi program tersebut, di mana program akan menampilkan true jika selisih kedua 
+isi kantong lebih dari atau sama dengan 9 kg. Program berhenti memproses apabila total 
+berat isi kedua kantong melebihi 150 kg atau salah satu kantong beratnya negatif

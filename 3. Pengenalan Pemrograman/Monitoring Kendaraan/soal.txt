@@ -1,0 +1,7 @@
+Seorang mahasiswa sedang membuat aplikasi monitoring kendaraan yang dipasang pada 
+gerbang tol Buahbatu. Terdapat tiga tipe kendaraan yang melintas, yaitu kendaraan tipe A, 
+tipe B dan tipe C.
+Masukan terdiri dari beberapa karakter ('A', 'B', 'C') yang dipisahkan oleh spasi. Masukan akan 
+berakhir apabila karakter tidak valid.
+Keluaran terdiri dari tiga baris, yang masing-masingnya menyatakan banyaknya kendaraan 
+tipe A, B, dan C yang melintasi di gerbang tol Buahbatu.

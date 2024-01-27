@@ -1,0 +1,4 @@
+Buatlah program yang digunakan untuk konversi bilangan decimal (basis sepuluh) ke bilangan 
+biner (basis dua).
+Masukan terdiri dari sebuah bilangan bulat sebagai bilangan decimal yang akan dikonversi.
+Keluaran berupa string biner hasil konversi.
